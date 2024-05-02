@@ -12,4 +12,5 @@ Description: Develop a command-line to-do list application that allows users to 
 
 ## Tech Stack:
 Python
+
 File handling or a simple database library
