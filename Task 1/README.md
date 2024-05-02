@@ -11,5 +11,5 @@ Description: Develop a command-line to-do list application that allows users to 
 5. Data Persistence: Store tasks in a file/database for persistence across sessions.
 
 ## Tech Stack:
-Python
-File handling or a simple database library
+#### Python
+#### File handling or a simple database library
